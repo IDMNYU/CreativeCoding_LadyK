@@ -2,11 +2,11 @@
 
 * [Syllabus](README.md)
 
-## Getting Started
+## Course Components&#x20;
 
-* [Schedule](getting-started/quickstart.md)
-* [Resources](getting-started/publish-your-docs.md)
+* [Schedule](course-components/quickstart.md)
+* [Resources](course-components/publish-your-docs.md)
 
-## Group 1
+***
 
-* [Assignments](group-1/assignments.md)
+* [Assignments](assignments.md)
