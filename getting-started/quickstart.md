@@ -1,8 +1,8 @@
 ---
-icon: bullseye-arrow
 description: >-
   Schedule & Weekly Detail is subject to change at any time. Check back
   regularly!
+icon: bullseye-arrow
 ---
 
 # Schedule

@@ -2,10 +2,10 @@
 
 * [Syllabus](README.md)
 
-## Course Components&#x20;
+## Course Components
 
-* [Schedule](course-components/quickstart.md)
-* [Resources](course-components/publish-your-docs.md)
+* [Schedule](getting-started/quickstart.md)
+* [Resources](getting-started/publish-your-docs.md)
 
 ***
 
