@@ -9,4 +9,5 @@
 
 ***
 
+* [Page](page.md)
 * [Assignments](assignments.md)
