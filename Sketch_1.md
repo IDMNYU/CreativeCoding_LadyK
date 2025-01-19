@@ -1,15 +1,11 @@
-# DM-UY 1133-D Creative Coding
-##### Fall 2024 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
+# Sketch 1 Composition
 
-
-## Sketch 1 Composition
-
-#### Due Sept 20 16:00 EST 
+#### Due Feburary 5 16:00 EST 
 #### Submit on openProcessing 
 ##### [Link to join openProcessing]()
 
 			
-_Come to class on XX with the sketch started and we will demo how to submit it together in class_
+_Come to class on January 29 with the sketch started and we will demo how to submit it together in class_
 
 Take a meaty crop of Julie Mehretu's painting - _A Renegade Excavation_. See Slack for the image. Do not take a crop of the corners! Take a crop from the central area, one that is more dense with a diversity of shapes.
 
@@ -22,8 +18,8 @@ I am looking to see how well you understand:
 - creating different shapes in a number of ways - layering, begin/end shape, building shapes with other shapes
 - color
 - opacity
-- layering
-- your strategies on creating difficult shapes
+- layering - NOTE ALL THE LAYERS
+- your strategies on creating difficult shapes - This doesn't mean you must do every complex shape. Yet, you must show me how you would tackle such shapes with completion on 1
 - how well your eye sees the many layers of this painting.
 
 Recommendations: Do not do this in one sitting. Take breaks. Work on this in several sessions (and not the night before it's due).
