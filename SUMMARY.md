@@ -12,6 +12,8 @@
 * [Assignments](assignments.md)
 * [Sketch 1](sketch-1.md)
 * [Sketch 2](sketch-2.md)
+* [Sketch 3](sketch-3.md)
+* [Sketch 4](sketch-4.md)
 * [Show & Tell](show-and-tell.md)
 * [MidTerm Assessment](midterm-assessment.md)
 * [Final Project](final-project.md)

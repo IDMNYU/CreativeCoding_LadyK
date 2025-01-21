@@ -1,8 +1,8 @@
 ---
+icon: bullseye-arrow
 description: >-
   Schedule & Weekly Detail is subject to change at any time. Check back
   regularly!
-icon: bullseye-arrow
 ---
 
 # Schedule
@@ -16,7 +16,7 @@ In class:
 * Introductions
 * Overall Structure: IDE, Static Mode
 * 2D Primitives
-* Order
+* Order of Operation
 
 Do for Next Week:
 
@@ -30,13 +30,13 @@ Do for Next Week:
 * Watch/Reference: [Interaction (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD)
 
 - [download Slack](https://slack.com/)
-- Join the Slack workspace for this course. Make sure your workspace name is the name to address you by
-- Join our workspace on openProcessing via this invitation link. This is critical as this is where you will be submitting your homework.
-- Fill out the Google Survey, if you have not
+- [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-pwh8405/shared_invite/zt-2y9j92poz-9hzHVoF6tQWj2x3H1oBD9Q). Make sure your workspace name is the name to address you by
+- Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/21F0B7)This is critical as this is where you will be submitting your homework.
+- Fill out the [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLScXEcEoSx0wcMAxQdEZv9jxFOva8Aefddq-5VeXA2QRzRJl8w/viewform?usp=sharing), if you have not
 - Get a [Github](https://github.com/) account
 - Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
 - Install [Processing](https://processing.org/download/). Explore the examples!
-- Begin working on Sketch 1
+- Begin working on [Sketch 1](../sketch-1.md)
 
 </details>
 
@@ -68,7 +68,7 @@ Do for Next Week:
 * Watch/Reference: Shiffman's
 
 - If you missed Last week, review week 1's assignments
-- Continue to work on Sketch 1
+- Continue to work on[ Sketch 1](../sketch-1.md)
 
 
 
@@ -96,8 +96,9 @@ Do For Next Week:
 * Watch/Review Shiffman's 5: [Conditionals Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_)
 * Watch/Review Shiffman's 6: [Loops Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)
 * Watch/Review Shiffman's [4.3 Using random() ](https://youtu.be/50Rzvxvi8D0)
+* Find out When your [Show & Tell Presentation](../show-and-tell.md) is, and make a note to prepare for it.
 
-- Work on Sketch 2
+- Work on [Sketch 2](../sketch-2.md)
 
 
 
@@ -125,9 +126,179 @@ Do For Next Week:
 * Watch/Review Shiffman's&#x20;
 * Watch/Review Shiffman's&#x20;
 
-- Continue to work on Sketch 2
+- Continue to work on [Sketch 2](../sketch-2.md)
 - Read the letters from the Last Cohort (If you did not last week) & Write a brief reflection and send it to me via a Slack DM.
 
 
+
+</details>
+
+<details>
+
+<summary>Week 5: Wednesday February 19 &#x26; Monday February 24 | Matrix Transformations &#x26; P5.js intro, Object Oriented Programming</summary>
+
+In Class:
+
+* Matrix Transformations
+* p5.js intro
+* OOP Intro
+* Midterm Project Announced
+* Sketch 3
+
+Do for next week:
+
+* read/review: Learning Processing Chapter 8, 10-11
+* watch/review Shiffman's [Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY\&ab_channel=TheCodingTrain),[ Map](https://www.youtube.com/watch?v=nicMAoW6u1g\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=12\&t=16s\&ab_channel=TheCodingTrain), [Random](https://www.youtube.com/watch?v=POn4cZ0jL-o\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=11\&ab_channel=TheCodingTrain) (each one is a different link; 3 links)
+* watch/review Shiffman's [Object Oriented I](https://www.youtube.com/user/shiffman/playlists?view=50\&sort=dd\&shelf_id=2)[ntro](https://www.youtube.com/watch?v=xG2Vbnv0wvg\&ab_channel=TheCodingTrain), [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w\&ab_channel=TheCodingTrain), [Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4\&ab_channel=TheCodingTrain), [Adding Files](https://www.youtube.com/watch?v=5nf41qLeagU\&ab_channel=TheCodingTrain) (each is a different link; 4 links)
+
+[  Work on Sketch 3](../sketch-3.md)
+
+&#x20; Brain storm an adjective for your Midterm project. Come to the class with it. If you want to get working on it, sketch it out visually.
+
+
+
+</details>
+
+<details>
+
+<summary>Week 6 Wednesday February 26 &#x26; Monday March 3 | Arrays, OOP Methods</summary>
+
+In Class:
+
+* OOP (continued)
+* Time Control Strategies
+* In Class Challenge
+
+Do For Next Week:
+
+* read/review [Processing to P5 Tutorial](https://github.com/processing/p5.js/wiki/Processing-transition)
+
+- Brainstorm and Pseudo Code Midterm
+- Work on [Sketch 3](../sketch-3.md)
+
+</details>
+
+<details>
+
+<summary>Week 7: Wednesday March 5 &#x26; Monday March 10 | Buffer</summary>
+
+In Class:&#x20;
+
+* TBA
+* Review State machines, debugging
+* In class challenge
+* Demo of libraries for [Final Project](../final-project.md)s: Sound, Computer Vision, Video, P5 Play library, P5 Speech library (not for midterm)
+
+Do for Next Week:&#x20;
+
+* Review Previous readings in Learning Processing & Generative Design covered so far
+* Work on  and push your progress to your github repo for it
+
+</details>
+
+<details>
+
+<summary>Week 8: Wednesday March 12 &#x26; Monday March 17 | Intro to Images &#x26; Text &#x26; Midterm Presentations</summary>
+
+In class:
+
+* Intro to working with data - Images & Text
+* MIDTERM PRESENTATIONS
+
+Do for Next Week:
+
+* Brainstorm [final project](../final-project.md#final-project-choice-20-of-your-final-grade) ideas and begin creating [Roundtable Presentation](../final-project-roundtable.md)
+* [Midterm Self Assessment](../midterm-assessment.md)
+* Revise/Refine Midterm Project
+
+Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=-f0WEitGmiw\&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9\&ab_channel=TheCodingTrain) 10.1 - 10.7 (see playlist on screen for next videos)
+
+</details>
+
+<details>
+
+<summary>Week 9: Wednesday March 19 &#x26; Monday March 31 | Midterm Presentations &#x26; Image &#x26; Text (cont)</summary>
+
+In Class:
+
+* Midterm Project Presentations & Feedback
+* Image & Text manipulation
+
+Do for the Week After Spring Break (**do not** work _over_ spring break!)
+
+* [Midterm Self Assessment](../midterm-assessment.md)
+* Revise/Refine Midterm Project
+* Work on[ Sketch 4](../sketch-4.md)
+
+</details>
+
+<details>
+
+<summary>Week 10: Wednesday April 2 &#x26; Monday April 7 | Working with Text II</summary>
+
+In class:
+
+* Text & String Manipulations
+* API's
+
+Do For Next Week:
+
+* work on [Sketch 4](../sketch-4.md)
+* work on [Roundtable presentation](../final-project-roundtable.md)
+* Read/Watch/Review Shiffman's [13: Text & Data](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y4F21kqaFLk6oGW2I5o7FY) playlist
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Week 11: Wednesday April 9 &#x26; Monday April 14 | RoundTable Presentations</summary>
+
+In class:
+
+* [Roundtable Presentations](../final-project-roundtable.md)
+
+Do for Next Week:
+
+* [Sketch 4](../sketch-4.md)
+
+</details>
+
+<details>
+
+<summary>Week 12: Wednesday April 16 &#x26; Monday April 21 | Libraries: Sound, Generative code, ML, Camera tracking, P5 play, + other requests</summary>
+
+* [Work on Final Project](../final-project.md)
+
+</details>
+
+<details>
+
+<summary>Week 13: Wednesday April 23 &#x26; Monday April 28</summary>
+
+In class:&#x20;
+
+* Topics by Request
+* Bug Squashing
+
+For Next Week:
+
+&#x20;       **Work on Final Project**
+
+</details>
+
+<details>
+
+<summary>Week 14: Wednesday April 30 &#x26; May 5 | Final Project Feedback Sessions</summary>
+
+For Next Week:
+
+* Finish [Final Project](../final-project.md) - Due May 12 @ 12 noon
+* Final [Course Deliverables](../final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due May 12 @ 16:00
+* We DO NOT MEET OVER EXAM WEEK
+* Have a fabulous summer! :clap: :tada:
 
 </details>

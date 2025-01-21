@@ -26,9 +26,9 @@ layout:
 * 370 Jay Street, Room 308, Brooklyn Campus
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu**
-* Slack Workspace (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
-* openProcessing Workspace (where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's weekly breakout.
-* **Office Hours: Monday & Wednesday 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly before class. Please message me in advance to set up.**
+* [Slack Workspace ](https://creativecodin-pwh8405.slack.com)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
+* [openProcessing Workspace ](https://openprocessing.org/class/96253#/)(where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's on Schedule
+* **Office Hours: Monday & Wednesday 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. I can meet briefly before class. Please message me in advance to set up.**
 * **Creative Coding GA is: TBD**
 
 

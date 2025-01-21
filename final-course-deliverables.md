@@ -1,11 +1,11 @@
 ---
-description: Self Assessment & Letter to the next Cohort & any missing documents
 icon: head-side-goggles
+description: Final Self Assessment & Letter to the next Cohort & any missing documents
 ---
 
 # Final Course Deliverables
 
-## Self Assessment
+## Final Self Assessment
 
 Using Word or another text editor, reflect on the following, **considering the entire semester** not just your Final Project:
 

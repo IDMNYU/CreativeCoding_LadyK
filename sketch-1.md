@@ -1,5 +1,5 @@
 ---
-icon: transporter-7
+icon: carrot
 ---
 
 # Sketch 1
@@ -10,7 +10,7 @@ icon: transporter-7
 
 **Submit on openProcessing**
 
-[**Link to join openProcessing**](https://github.com/IDMNYU/CreativeCoding_LadyK/blob/main)
+[**Link to join openProcessing**](https://openprocessing.org/join/21F0B7)
 
 
 
