@@ -2,23 +2,18 @@
 
 
 
-{% @github-files/github-code-block %}
+{% content-ref url="sketch-1.md" %}
+[sketch-1.md](sketch-1.md)
+{% endcontent-ref %}
 
-<details>
+{% content-ref url="sketch-2.md" %}
+[sketch-2.md](sketch-2.md)
+{% endcontent-ref %}
 
-<summary>Sketch 1</summary>
+{% content-ref url="show-and-tell.md" %}
+[show-and-tell.md](show-and-tell.md)
+{% endcontent-ref %}
 
-```
-```
-
-</details>
-
-<details>
-
-<summary>Show &#x26; Tell</summary>
-
-
-
-</details>
-
-{% @github-files/github-code-block %}
+{% content-ref url="midterm-assessment.md" %}
+[midterm-assessment.md](midterm-assessment.md)
+{% endcontent-ref %}
