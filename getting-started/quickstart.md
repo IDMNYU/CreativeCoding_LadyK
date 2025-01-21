@@ -36,7 +36,7 @@ Do for Next Week:
 - Get a [Github](https://github.com/) account
 - Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
 - Install [Processing](https://processing.org/download/). Explore the examples!
-- Begin working on [Sketch 1](../sketch-1.md)
+- Begin working on [Sketch 1](../assignments/sketch-1.md)
 
 </details>
 
@@ -68,7 +68,7 @@ Do for Next Week:
 * Watch/Reference: Shiffman's
 
 - If you missed Last week, review week 1's assignments
-- Continue to work on[ Sketch 1](../sketch-1.md)
+- Continue to work on[ Sketch 1](../assignments/sketch-1.md)
 
 
 
@@ -96,9 +96,9 @@ Do For Next Week:
 * Watch/Review Shiffman's 5: [Conditionals Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6YqykuLs00261JCqnL_NNZ_)
 * Watch/Review Shiffman's 6: [Loops Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)
 * Watch/Review Shiffman's [4.3 Using random() ](https://youtu.be/50Rzvxvi8D0)
-* Find out When your [Show & Tell Presentation](../show-and-tell.md) is, and make a note to prepare for it.
+* Find out When your [Show & Tell Presentation](../assignments/show-and-tell.md) is, and make a note to prepare for it.
 
-- Work on [Sketch 2](../sketch-2.md)
+- Work on [Sketch 2](../assignments/sketch-2.md)
 
 
 
@@ -126,7 +126,7 @@ Do For Next Week:
 * Watch/Review Shiffman's&#x20;
 * Watch/Review Shiffman's&#x20;
 
-- Continue to work on [Sketch 2](../sketch-2.md)
+- Continue to work on [Sketch 2](../assignments/sketch-2.md)
 - Read the letters from the Last Cohort (If you did not last week) & Write a brief reflection and send it to me via a Slack DM.
 
 
@@ -151,9 +151,9 @@ Do for next week:
 * watch/review Shiffman's [Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY\&ab_channel=TheCodingTrain),[ Map](https://www.youtube.com/watch?v=nicMAoW6u1g\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=12\&t=16s\&ab_channel=TheCodingTrain), [Random](https://www.youtube.com/watch?v=POn4cZ0jL-o\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=11\&ab_channel=TheCodingTrain) (each one is a different link; 3 links)
 * watch/review Shiffman's [Object Oriented I](https://www.youtube.com/user/shiffman/playlists?view=50\&sort=dd\&shelf_id=2)[ntro](https://www.youtube.com/watch?v=xG2Vbnv0wvg\&ab_channel=TheCodingTrain), [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w\&ab_channel=TheCodingTrain), [Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4\&ab_channel=TheCodingTrain), [Adding Files](https://www.youtube.com/watch?v=5nf41qLeagU\&ab_channel=TheCodingTrain) (each is a different link; 4 links)
 
-[  Work on Sketch 3](../sketch-3.md)
+[  Work on Sketch 3](../assignments/sketch-3.md)
 
-&#x20; Brain storm an adjective for your Midterm project. Come to the class with it. If you want to get working on it, sketch it out visually.
+&#x20; Brain storm an adjective for your [Midterm project](../assignments/midterm-project.md). Come to the class with it. If you want to get working on it, sketch it out visually.
 
 
 
@@ -173,8 +173,8 @@ Do For Next Week:
 
 * read/review [Processing to P5 Tutorial](https://github.com/processing/p5.js/wiki/Processing-transition)
 
-- Brainstorm and Pseudo Code Midterm
-- Work on [Sketch 3](../sketch-3.md)
+- Brainstorm and Pseudo Code [Midterm](../assignments/midterm-project.md)
+- Work on [Sketch 3](../assignments/sketch-3.md)
 
 </details>
 
@@ -187,12 +187,12 @@ In Class:&#x20;
 * TBA
 * Review State machines, debugging
 * In class challenge
-* Demo of libraries for [Final Project](../final-project.md)s: Sound, Computer Vision, Video, P5 Play library, P5 Speech library (not for midterm)
+* Demo of libraries for [Final Project](../assignments/final-project.md)s: Sound, Computer Vision, Video, P5 Play library, P5 Speech library (not for midterm)
 
 Do for Next Week:&#x20;
 
 * Review Previous readings in Learning Processing & Generative Design covered so far
-* Work on  and push your progress to your github repo for it
+* Work on [Midterm Project](../assignments/midterm-project.md#midterm-project-the-unexpected-machine-performance-of-an-adjective) and push your progress to your github repo for it
 
 </details>
 
@@ -203,13 +203,13 @@ Do for Next Week:&#x20;
 In class:
 
 * Intro to working with data - Images & Text
-* MIDTERM PRESENTATIONS
+* [MIDTERM PRESENTATIONS](../assignments/midterm-project.md)
 
 Do for Next Week:
 
-* Brainstorm [final project](../final-project.md#final-project-choice-20-of-your-final-grade) ideas and begin creating [Roundtable Presentation](../final-project-roundtable.md)
-* [Midterm Self Assessment](../midterm-assessment.md)
-* Revise/Refine Midterm Project
+* Brainstorm [final project](../assignments/final-project.md#final-project-choice-20-of-your-final-grade) ideas and begin creating [Roundtable Presentation](../assignments/final-project-roundtable.md)
+* [Midterm Self Assessment](../assignments/midterm-assessment.md)
+* Revise/Refine [Midterm Project](../assignments/midterm-project.md#midterm-project-the-unexpected-machine-performance-of-an-adjective)
 
 Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=-f0WEitGmiw\&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9\&ab_channel=TheCodingTrain) 10.1 - 10.7 (see playlist on screen for next videos)
 
@@ -221,14 +221,14 @@ Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=
 
 In Class:
 
-* Midterm Project Presentations & Feedback
+* [Midterm Project Presentations & Feedback](../assignments/midterm-project.md)
 * Image & Text manipulation
 
 Do for the Week After Spring Break (**do not** work _over_ spring break!)
 
-* [Midterm Self Assessment](../midterm-assessment.md)
-* Revise/Refine Midterm Project
-* Work on[ Sketch 4](../sketch-4.md)
+* [Midterm Self Assessment](../assignments/midterm-assessment.md)
+* Revise/Refine [Midterm Project](../assignments/midterm-project.md)
+* Work on[ Sketch 4](../assignments/sketch-4.md)
 
 </details>
 
@@ -243,8 +243,8 @@ In class:
 
 Do For Next Week:
 
-* work on [Sketch 4](../sketch-4.md)
-* work on [Roundtable presentation](../final-project-roundtable.md)
+* work on [Sketch 4](../assignments/sketch-4.md)
+* work on [Roundtable presentation](../assignments/final-project-roundtable.md)
 * Read/Watch/Review Shiffman's [13: Text & Data](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y4F21kqaFLk6oGW2I5o7FY) playlist
 
 
@@ -259,11 +259,11 @@ Do For Next Week:
 
 In class:
 
-* [Roundtable Presentations](../final-project-roundtable.md)
+* [Roundtable Presentations](../assignments/final-project-roundtable.md)
 
 Do for Next Week:
 
-* [Sketch 4](../sketch-4.md)
+* [Sketch 4](../assignments/sketch-4.md)
 
 </details>
 
@@ -271,7 +271,7 @@ Do for Next Week:
 
 <summary>Week 12: Wednesday April 16 &#x26; Monday April 21 | Libraries: Sound, Generative code, ML, Camera tracking, P5 play, + other requests</summary>
 
-* [Work on Final Project](../final-project.md)
+* [Work on Final Project](../assignments/final-project.md)
 
 </details>
 
@@ -296,8 +296,8 @@ For Next Week:
 
 For Next Week:
 
-* Finish [Final Project](../final-project.md) - Due May 12 @ 12 noon
-* Final [Course Deliverables](../final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due May 12 @ 16:00
+* Finish [Final Project](../assignments/final-project.md) - Due May 12 @ 12 noon
+* Final [Course Deliverables](../assignments/final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due May 12 @ 16:00
 * We DO NOT MEET OVER EXAM WEEK
 * Have a fabulous summer! :clap: :tada:
 
