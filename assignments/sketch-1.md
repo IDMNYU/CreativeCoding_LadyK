@@ -59,5 +59,6 @@ Send me your Mehretu crop via Slack Direct Message.
 
 * [Useful resources for curves (switch tab to playground)](http://yining1023.github.io/p5PlayGround/)
 * [Tutorial on Curves](https://processing.org/tutorials/curves/)
+* [Find your colors and your color groove here.](https://color.adobe.com/create/color-wheel)
 * Drawing out your composition on graph paper first, will help you understand coordinates. Make the top left corner (0, 0)
 * Creating an interactive cross-hairs (see example sketches given in class and the Slack channel Code From Class)
