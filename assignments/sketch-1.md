@@ -4,7 +4,7 @@ icon: carrot
 
 # Sketch 1
 
-## **Due Feburary 5 16:00 EST**
+## **Due February 5 \~16:00\~ 23:59 EST**
 
 
 
