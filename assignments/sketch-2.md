@@ -11,7 +11,7 @@ description: State Machine Landscape
 
 #### (State Machine) Landscape
 
-Create a state machine that has 3 or more visual states to it. Create a landscape of any type. This LANDSCAPE needs to have 10 items in it. There needs to be change/difference/evolution.
+Create a state machine that has 3 or more visual states to it. Create a landscape of any type. This LANDSCAPE needs to have 10 visual items in it. There needs to be change/difference/evolution, upon certain conditions.
 
 Think of controlling location, color, attributes and movement.
 
