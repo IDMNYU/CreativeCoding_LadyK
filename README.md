@@ -311,14 +311,14 @@ Do the follow these steps for each project:
 0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner:
 				*YourFirstNameYourLastName_Project_1*, etc.
 
-1. Upload this folder to a new repository on your GitHub account titled:
+1. This is the folder that you will upload under a new repository on your GitHub account titled:
 				*CreativeCoding_Project_1*
 
-2. Create a new repository on your GitHub account online. The repository should be titled CreativeCoding_Project_1, filling in the number of the exercise. Include the README.md option
+2. Go to a browser and go to github.com and log in. Create a new repository on your GitHub account online. The repository should be titled CreativeCoding_Project_1, filling in the number of the exercise. Include the README.md option. Do not make this private!
 
-3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
+3. Under the "Issues" tab in Github desktop, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
-4. Go back to the GitHub Desktop app. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
+4. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
 
 5. Hit the "sync button" in the upper right hand corner. This uploads your code to your repo page on the Github website.
 
