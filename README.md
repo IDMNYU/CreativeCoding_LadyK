@@ -2,28 +2,15 @@
 icon: transporter-7
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Syllabus
 
-## Syllabus for DM-UY-1133-A Creative Coding Spring 2025
+## Syllabus for DM-UY-1133-D Creative Coding Fall 2025
 
 * **DM-UY 1133 D Creative Coding**
-* 370 Jay Street, Room 308, Brooklyn Campus
+* 370 Jay Street, Room 309, Brooklyn Campus,&#x20;
+* Wed/Mon, 14:00 - 16:00
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu**
 * [Slack Workspace ](https://creativecodin-pwh8405.slack.com)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
@@ -260,9 +247,9 @@ The course can be broken down into 3 sections throughout the semester: programmi
 A typical session will aim for the following schedule:
 
 ```
-• 12:00 - 12:10 Class Intros & Updates
-• 12:10 - 13:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
-• 13:30 - 13:50 Presentations & Re-group; Tickets to Leave
+• 14:00 - 14:10 Class Intros & Updates
+• 14:10 - 15:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
+• 15:30 - 13:50 Presentations & Re-group; Tickets to Leave
 ```
 
 [Back To The Top](./#jump-to-section)
