@@ -1,15 +1,15 @@
 ---
-icon: bullseye-arrow
 description: >-
   Schedule & Weekly Detail is subject to change at any time. Check back
   regularly!
+icon: bullseye-arrow
 ---
 
 # Schedule
 
 <details>
 
-<summary>Week 1: Wednesday January 22nd &#x26; Monday January 28th | Course Introduction, Overview &#x26; Getting Started</summary>
+<summary>Week 1: Wednesday Sept 3rd &#x26; Monday September 8th | Course Introduction, Overview &#x26; Getting Started</summary>
 
 In class:
 
@@ -42,7 +42,7 @@ Do for Next Week:
 
 <details>
 
-<summary>Week 2: Wednesday January 29 &#x26;  Monday February 3 (Add/Drop Deadline) | Basics II</summary>
+<summary>Week 2: Wednesday Sept 10th &#x26;  Monday Sept 15th (Add/Drop Deadline) | Basics II</summary>
 
 In Class:
 
@@ -76,7 +76,7 @@ Do for Next Week:
 
 <details>
 
-<summary>Week 3: Wednesday February 5 &#x26; Monday February 10 | Control Statements and more!</summary>
+<summary>Week 3: Wednesday Sept 17th &#x26; Monday Sept 22nd | Control Statements and more!</summary>
 
 In Class:
 
@@ -106,7 +106,7 @@ Do For Next Week:
 
 <details>
 
-<summary>Week 4: Wednesday February 12 &#x26; TUESDAY February 18 | Loops &#x26; Functions</summary>
+<summary>Week 4: Wednesday Sept 24th &#x26; Monday Sept 29 | Loops &#x26; Functions</summary>
 
 In Class:
 
@@ -133,7 +133,7 @@ Do For Next Week:
 
 <details>
 
-<summary>Week 5: Wednesday February 19 &#x26; Monday February 24 | Matrix Transformations &#x26; P5.js intro, Object Oriented Programming</summary>
+<summary>Week 5: Wednesday October 1 &#x26; Monday October 6 | Matrix Transformations &#x26; P5.js intro, Object Oriented Programming</summary>
 
 In Class:
 
@@ -159,7 +159,7 @@ Do for next week:
 
 <details>
 
-<summary>Week 6 Wednesday February 26 &#x26; Monday March 3 | Arrays, OOP Methods</summary>
+<summary>Week 6 Wednesday October 8th &#x26; TUESDAY October 14 | Arrays, OOP Methods</summary>
 
 In Class:
 
@@ -178,7 +178,7 @@ Do For Next Week:
 
 <details>
 
-<summary>Week 7: Wednesday March 5 &#x26; Monday March 10 | Buffer</summary>
+<summary>Week 7: Wednesday October 15 &#x26; Monday October  20th | Buffer</summary>
 
 In Class:&#x20;
 
@@ -196,7 +196,7 @@ Do for Next Week:&#x20;
 
 <details>
 
-<summary>Week 8: Wednesday March 12 &#x26; Monday March 17 | Intro to Images &#x26; Text &#x26; Midterm Presentations</summary>
+<summary>Week 8: Wednesday October 22nd &#x26; Monday October 27th | Intro to Images &#x26; Text &#x26; Midterm Presentations</summary>
 
 In class:
 
@@ -215,7 +215,7 @@ Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=
 
 <details>
 
-<summary>Week 9: Wednesday March 19 &#x26; Monday March 31 | Midterm Presentations &#x26; Image &#x26; Text (cont)</summary>
+<summary>Week 9: Wednesday October 29th &#x26; Monday November 3rd | Midterm Presentations &#x26; Image &#x26; Text (cont)</summary>
 
 In Class:
 
@@ -232,7 +232,7 @@ Do for the Week After Spring Break (**do not** work _over_ spring break!)
 
 <details>
 
-<summary>Week 10: Wednesday April 2 &#x26; Monday April 7 | Working with Text II</summary>
+<summary>Week 10: Wednesday November 10th &#x26; Monday  November 5th | Working with Text II</summary>
 
 In class:
 
@@ -253,7 +253,7 @@ Do For Next Week:
 
 <details>
 
-<summary>Week 11: Wednesday April 9 &#x26; Monday April 14 | RoundTable Presentations</summary>
+<summary>Week 11: Wednesday November 12th &#x26; Monday November 17th | RoundTable Presentations</summary>
 
 In class:
 
@@ -267,7 +267,7 @@ Do for Next Week:
 
 <details>
 
-<summary>Week 12: Wednesday April 16 &#x26; Monday April 21 | Libraries: Sound, Generative code, ML, Camera tracking, P5 play, + other requests</summary>
+<summary>Week 12: Wednesday November 19th &#x26; Monday November 24th | Libraries: Sound, Generative code, ML, Camera tracking, P5 play, + other requests</summary>
 
 * [Work on Final Project](../assignments/final-project.md)
 
@@ -275,7 +275,7 @@ Do for Next Week:
 
 <details>
 
-<summary>Week 13: Wednesday April 23 &#x26; Monday April 28</summary>
+<summary>Week 13: Monday December 1st &#x26; Wednesday December 3rd</summary>
 
 In class:&#x20;
 
@@ -290,13 +290,13 @@ For Next Week:
 
 <details>
 
-<summary>Week 14: Wednesday April 30 &#x26; May 5 | Final Project Feedback Sessions</summary>
+<summary>Week 14: Monday December 8th &#x26; Wednesday December 10th | Final Project Feedback Sessions</summary>
 
 For Next Week:
 
-* Finish [Final Project](../assignments/final-project.md) - Due May 12 @ 12 noon
-* Final [Course Deliverables](../assignments/final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due May 12 @ 16:00
+* Finish [Final Project](../assignments/final-project.md) - Due December 10 @ 12 noon
+* Final [Course Deliverables](../assignments/final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due December 10 @ 16:00
 * We DO NOT MEET OVER EXAM WEEK
-* Have a fabulous summer! :clap: :tada:
+* Have a fabulous winter break! :clap: :tada:
 
 </details>
