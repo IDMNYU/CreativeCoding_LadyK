@@ -39,7 +39,9 @@ coverY: 0
 [Program Goals](./#program-goals)\
 [Programming Experience](./#programming-experience)\
 [Required Materials](./#required-materials-acquire-these)\
-[Technology in the Classroom](./#technology-in-the-classroom)\
+[Technology in the Classroom](./#technology-in-the-classroom)
+
+[Time estimates per week](./#time-estimates-per-week)\
 [Using Code Found Elsewhere](./#using-code-found-elsewhere)\
 [Using Generative AI](./#using-generative-ai)
 
@@ -235,6 +237,22 @@ OpenProcessing Site
 [Highly Recommended Texted - Form + Code by Casey Reas and Chandler McWilliams](http://formandcode.com/) This book is available as an online book [here](http://bobcat.library.nyu.edu)
 
 The above software is free to download.
+
+[Back To The Top](./#jump-to-section)
+
+## [Time Estimates per Week](./#jump-to-section)
+
+These are ball-park time estimates for various homework assignments given in this course. These estimates will vary per student, as they also will throughout the semester. It depends upon one's knowledge of programming and their ability to learn the material. I suggest a multi-prong effort in this course: revewing course material, reading/wtaching videos, programming and working on assignments.
+
+Please manage your time and do. not. do. your. homework. in. one. sitting. It will be stressful and not quality work. You may POST your homework before the deadline. Infact, you are encouraged to! Students who spread the assignment across the week submit higher quality work under less stress, and work with greater ease. As such, the time estimate has been included below. You may require any combination of these. I suspect that what you need will change over the semester and may fluctuate. Some time from one area, will be needed in another. Some will require more time, some less. As such, overall, on average, you will need 5-6 out of class, indepenedently learning
+
+
+
+* Reading/Watching Videos- 60- 120 minutes
+* Reviewing notes and code from class: 60 minutes
+* Assignments + programming: 60-120 minutes
+* reviewing what you've already covered- readings and notes- 30-45minutes
+* squashing programming bugs - 60 minutes
 
 [Back To The Top](./#jump-to-section)
 
