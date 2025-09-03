@@ -30,13 +30,14 @@ Do for Next Week:
 * Watch/Reference: [Interaction (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD)
 
 - [download Slack](https://slack.com/)
-- [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-pwh8405/shared_invite/zt-2y9j92poz-9hzHVoF6tQWj2x3H1oBD9Q). Make sure your workspace name is the name to address you by
-- Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/21F0B7)This is critical as this is where you will be submitting your homework.
-- Fill out the [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLScXEcEoSx0wcMAxQdEZv9jxFOva8Aefddq-5VeXA2QRzRJl8w/viewform?usp=sharing), if you have not
+- [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-z8r4683/shared_invite/zt-3ckzqdpuu-NL26mURwwHOi~KQnCARa6Q). Make sure your workspace name is the name to address you by
+- Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/C57504)This is critical as this is where you will be submitting your homework.
+- Fill out the [Google Survey](https://forms.gle/oicbSx344wLSj5Ld6), if you have not
 - Get a [Github](https://github.com/) account
 - Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
 - Install [Processing](https://processing.org/download/). Explore the examples!
-- Begin working on [Sketch 1](../assignments/sketch-1.md)
+
+
 
 </details>
 
