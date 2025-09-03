@@ -13,9 +13,9 @@ coverY: 0
 * Wed/Mon, 14:00 - 16:00
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu**
-* [Slack Workspace ](https://creativecodin-pwh8405.slack.com)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
-* [openProcessing Workspace ](https://openprocessing.org/class/96253#/)(where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's on Schedule
-* **Office Hours: Monday & Wednesday 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. I can meet briefly before class. Please message me in advance to set up.**
+* [Slack Workspace ](https://creativecodin-z8r4683.slack.com/)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
+* [openProcessing Workspace ](https://openprocessing.org/class/101395#/)(where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's on Schedule
+* **Office Hours: Monday & Wednesday 12-2 or 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. I can meet briefly before class. Please message me in advance to set up.**
 * **Creative Coding GA is: TBD**
 
 

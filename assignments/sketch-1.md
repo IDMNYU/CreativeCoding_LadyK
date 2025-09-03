@@ -4,21 +4,17 @@ icon: carrot
 
 # Sketch 1
 
-## **Due February 5&#x20;**~~**16:00**~~**&#x20;23:59 EST**
+## **Due**&#x20;
 
 
 
 **Submit on openProcessing**
 
-[**Link to join openProcessing**](https://openprocessing.org/join/21F0B7)
+[**Link to join openProcessing**](https://openprocessing.org/join/C57504)
 
 
 
-_Come to class on January 29 with the sketch started and we will demo how to submit it together in class_
-
-Take a meaty crop of Julie Mehretu's painting - _A Renegade Excavation_. See Slack for the image. Do not take a crop of the corners! Take a crop from the central area, one that is more dense with a diversity of shapes.
-
-You are to recreate this crop in Processing, using the methods of creating shapes and colors. Your sketch must be 800 by 800 pixels and showcase a variety of shapes, lines, colors, and thicknesses.
+_Come to class on September tba with the sketch started and we will demo how to submit it together in class_
 
 I am looking to see how well you understand:
 
@@ -33,7 +29,7 @@ I am looking to see how well you understand:
 
 Recommendations: Do not do this in one sitting. Take breaks. Work on this in several sessions (and not the night before it's due).
 
-Send me your Mehretu crop via Slack Direct Message.
+
 
 **Key aspects:**
 
