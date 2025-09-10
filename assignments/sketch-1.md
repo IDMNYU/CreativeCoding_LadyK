@@ -4,17 +4,29 @@ icon: carrot
 
 # Sketch 1
 
-## **Due**&#x20;
-
-
+## **Due September 19th 2025 - uploaded to our class page on openProcessing and submitted under "Sketch 1" by NOON on Friday the 19th.**
 
 **Submit on openProcessing**
 
 [**Link to join openProcessing**](https://openprocessing.org/join/C57504)
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.31.34.png" alt=""><figcaption></figcaption></figure>
 
+### Write code to generate a tiling pattern or textural composition, as for wallpaper or fabric. Give consideration to aesthetic issues like symmetry, rhythm, color; detail at multiple scales; precise control of shape; and the balance between organic and geometric forms.
 
-_Come to class on September tba with the sketch started and we will demo how to submit it together in class_
+### Your pattern should be designed so that it could be infinitely tiles or extended. Design something you would like to put on the walls or floor of your home, or you could imagine yourself wearing.
+
+### You are encouraged to sketch it out first
+
+#### **Learning Objectives**
+
+* **Create visual designs using the Cartesian coordinate system and combining drawing functions**
+* **Use functional abstraction to encapsulate the code for modular design elements**
+* **Generate and critique design symmetries and/or seamless repetition**
+
+***
+
+_Come to class on September 15 with the sketch started and we will demo how to submit it together in class_
 
 I am looking to see how well you understand:
 
@@ -25,7 +37,8 @@ I am looking to see how well you understand:
 * opacity
 * layering - NOTE ALL THE LAYERS
 * your strategies on creating difficult shapes - This doesn't mean you must do every complex shape. Yet, you must show me how you would tackle such shapes with completion on 1
-* how well your eye sees the many layers of this painting.
+
+
 
 Recommendations: Do not do this in one sitting. Take breaks. Work on this in several sessions (and not the night before it's due).
 
@@ -45,9 +58,10 @@ Recommendations: Do not do this in one sitting. Take breaks. Work on this in sev
 * Understanding screen coordinates (where to place the shapes), creating shapes, using color, opacity are key here in building your compositions
 * Your sketch size must be 800 x 800 pixels
 * Your code must yield the final result. It is not user generated (ie, mouse values, key values) and it is not randomly generated.
-* See something in the painting that you aren't sure how to replicate in code? Be creative! Think diversively! What techniques can you put together?
-* Do not avoid the complicated bits. It's better to make an attempt than nothing at all.
-* I want to see how good your sense of observation is. How many layers do you notice in the painting?
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.31.51.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.32.05.png" alt=""><figcaption></figcaption></figure>
 
 **Tips:**
 

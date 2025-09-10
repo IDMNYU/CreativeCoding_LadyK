@@ -44,7 +44,7 @@ Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg --->  Farhan
 
 Week 6B - Lee Blalock, Soso Limited ---> Diana
 
-Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Kelly
+Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m --->&#x20;
 
 Week 7A - Marius Watz & Memo Akten ---> Ben Evelson
 
@@ -58,7 +58,7 @@ Week 10A - Eno Henze, Cedric Kiefer (onformative)---> Quang
 
 Week 10A - Diato Manabe, Leo Villareal ---> Sam
 
-Week 11B - Karolina Sobecka, Moment Factory --->&#x20;
+Week 11B - Karolina Sobecka, Moment Factory ---> Izzy
 
 Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> Neon
 

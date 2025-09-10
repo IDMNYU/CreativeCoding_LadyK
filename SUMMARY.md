@@ -20,3 +20,7 @@
   * [Final Project Roundtable](assignments/final-project-roundtable.md)
   * [Final Project](assignments/final-project.md)
   * [Final Course Deliverables](assignments/final-course-deliverables.md)
+
+## In-class challenges
+
+* [Quadfilateral Zoo](in-class-challenges/quadfilateral-zoo.md)
