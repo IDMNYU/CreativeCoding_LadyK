@@ -10,8 +10,8 @@
 [sketch-1.md](sketch-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="sketch-2.md" %}
-[sketch-2.md](sketch-2.md)
+{% content-ref url="sketch-2-4.md" %}
+[sketch-2-4.md](sketch-2-4.md)
 {% endcontent-ref %}
 
 {% content-ref url="sketch-3.md" %}

@@ -99,7 +99,7 @@ Do For Next Week:
 * Watch/Review Shiffman's [4.3 Using random() ](https://youtu.be/50Rzvxvi8D0)
 * Find out When your [Show & Tell Presentation](../assignments/show-and-tell.md) is, and make a note to prepare for it.
 
-- Work on [Sketch 2](../assignments/sketch-2.md)
+- Work on [Sketch 2](../assignments/sketch-2-4.md)
 
 
 
@@ -125,7 +125,7 @@ Do For Next Week:
 * Watch/Review Shiffman's [7: Intro to Functions & Objects (playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR)
 * Watch/Review Shiffman's [Loops videos 1-](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)[6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)
 
-- Continue to work on [Sketch 2](../assignments/sketch-2.md)
+- Continue to work on [Sketch 2](../assignments/sketch-2-4.md)
 - Read the letters from the Last Cohort (If you did not last week) & Write a brief reflection and send it to me via a Slack DM.
 
 
