@@ -4,11 +4,11 @@ icon: fondue-pot
 
 # Sketch 2 - 4
 
-## **Creating 1 face -Due September 26th by NOON**
+## Sketch 2: **Creating 1 face -Due September 26th by NOON**
 
-## Parameterizing that face - Due October 3rd by Noon
+## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due October 3rd by Noon
 
-## Further Manipulate, iterate and add interactivity - Due October 10th by Noon
+## Sketch 4: Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due October 10th by Noon
 
 ## Face Generator
 
