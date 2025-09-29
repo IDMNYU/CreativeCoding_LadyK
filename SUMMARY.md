@@ -13,7 +13,7 @@
   * [Sketch 1](assignments/sketch-1.md)
   * [Sketch 2 - 4](assignments/sketch-2-4.md)
   * [Sketch 5](assignments/sketch-5.md)
-  * [Sketch 4](assignments/sketch-4.md)
+  * [Sketch 6](assignments/sketch-6.md)
   * [Show & Tell](assignments/show-and-tell.md)
   * [Midterm Project](assignments/midterm-project.md)
   * [MidTerm Assessment](assignments/midterm-assessment.md)
