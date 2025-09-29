@@ -14,8 +14,8 @@
 [sketch-2-4.md](sketch-2-4.md)
 {% endcontent-ref %}
 
-{% content-ref url="sketch-3.md" %}
-[sketch-3.md](sketch-3.md)
+{% content-ref url="sketch-5.md" %}
+[sketch-5.md](sketch-5.md)
 {% endcontent-ref %}
 
 {% content-ref url="sketch-4.md" %}

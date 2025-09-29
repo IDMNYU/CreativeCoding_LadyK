@@ -2,11 +2,11 @@
 icon: salad
 ---
 
-# Sketch 3
+# Sketch 5
 
-### Due Monday March 3, 2025 at 22:00 on openProcessing
+### Due&#x20;
 
-### Sketch 3: Wallpaper Options
+### Sketch 5: Wallpaper Options
 
 Your mom comes to you with a quest: She wants to re-wallpaper her office and she wants you to design the wallpaper! **She LOVES Moroccan & Egyptian Tiles!**&#x20;
 
