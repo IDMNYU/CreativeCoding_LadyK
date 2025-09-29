@@ -4,6 +4,10 @@ icon: globe-pointer
 
 # Resources
 
+## IDM Graduate Assistant:&#x20;
+
+**The Creative Coding Graduate Assistant is: Bowen He - Hours 14:00 - 16:00 (2-4pm)  on Tuesday & Thursdays in 370 Jay room 304 (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
+
 ## Required Course Materials
 
 • [Learning Processing, SECOND EDITION by Daniel Shiffman](http://learningprocessing.com/) ISBN-13: 978-0123944436 LP This book is available for purchase in the NYU bookstore, and will be at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/). This book in it's initial edition is available as an online book via [here](http://bobcat.library.nyu.edu).
