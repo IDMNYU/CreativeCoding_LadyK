@@ -140,9 +140,9 @@ In Class:
 
 * Matrix Transformations
 * p5.js intro
-* OOP Intro
+* \<strike>OOP Intro\</strike>
 * Midterm Project Announced
-* Sketch 3
+* Sketch 3 & 4
 
 Do for next week:
 
