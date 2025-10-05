@@ -8,7 +8,7 @@ icon: fondue-pot
 
 ## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due October 3rd by Noon
 
-## Sketch 4: Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due October 10th by Noon
+## Sketch 4: Port to P5.js & Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due October 10th by Noon
 
 ## Face Generator
 
