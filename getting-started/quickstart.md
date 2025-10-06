@@ -150,7 +150,7 @@ Do for next week:
 * watch/review Shiffman's [Javascript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY\&ab_channel=TheCodingTrain),[ Map](https://www.youtube.com/watch?v=nicMAoW6u1g\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=12\&t=16s\&ab_channel=TheCodingTrain), [Random](https://www.youtube.com/watch?v=POn4cZ0jL-o\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=11\&ab_channel=TheCodingTrain) (each one is a different link; 3 links)
 * watch/review Shiffman's [Object Oriented I](https://www.youtube.com/user/shiffman/playlists?view=50\&sort=dd\&shelf_id=2)[ntro](https://www.youtube.com/watch?v=xG2Vbnv0wvg\&ab_channel=TheCodingTrain), [Classes](https://www.youtube.com/watch?v=T-HGdc8L-7w\&ab_channel=TheCodingTrain), [Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4\&ab_channel=TheCodingTrain), [Adding Files](https://www.youtube.com/watch?v=5nf41qLeagU\&ab_channel=TheCodingTrain) (each is a different link; 4 links)
 
-[  Work on Sketch ](../assignments/sketch-2-4.md)4 & Brainstorm your [midterm project](../assignments/midterm-assessment.md)
+&#x20;[ Work on Sketch 4](../assignments/sketch-2-4.md)
 
 &#x20; Brain storm an adjective for your [Midterm project](../assignments/midterm-project.md). Come to the class with it. If you want to get working on it, sketch it out visually.
 

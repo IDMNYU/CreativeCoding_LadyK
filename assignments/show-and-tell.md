@@ -36,7 +36,7 @@ Week 5A - Joshua Davis, Golan Levin (drawing systems + collaborations) --->  Mac
 
 Week 5B - Casey Reas, Zachary Lieberman ---> Luke
 
-Week 6A - United Visual Artists, American Artist ---> River
+Week 6A - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy, now deceased)--->&#x20;
 
 Week 6B - Seb Lee-Delisle & Kyle McDonald --->
 
@@ -48,7 +48,7 @@ Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m --->&#x20;
 
 Week 7A - Marius Watz & Memo Akten ---> Ben
 
-Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy, now deceased)--->&#x20;
+Week 8B - United Visual Artists, American Artist ---> River&#x20;
 
 Week 9A - Jurg Lehni, Red Paper Heart ---> Matthew
 
