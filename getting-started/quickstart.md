@@ -166,7 +166,6 @@ In Class:
 
 * OOP (continued)
 * Time Control Strategies
-* In Class Challenge
 
 Do For Next Week:
 
