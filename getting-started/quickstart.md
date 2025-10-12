@@ -173,7 +173,7 @@ Do For Next Week:
 * read/review [Processing to P5 Tutorial](https://github.com/processing/p5.js/wiki/Processing-transition)
 
 - Brainstorm and Pseudo Code [Midterm](../assignments/midterm-project.md)
-- Work on [Sketch 3](../assignments/sketch-5.md)
+- Work on [Sketch 4](../assignments/sketch-2-4.md)
 
 </details>
 
