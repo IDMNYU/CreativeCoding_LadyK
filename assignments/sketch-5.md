@@ -6,21 +6,21 @@ icon: salad
 
 ### Due&#x20;
 
-### Sketch 5: Wallpaper Options
+### ~~Sketch 5: Wallpaper Options~~
 
-Your mom comes to you with a quest: She wants to re-wallpaper her office and she wants you to design the wallpaper! **She LOVES Moroccan & Egyptian Tiles!**&#x20;
+Y~~our mom comes to you with a quest: She wants to re-wallpaper her office and she wants you to design the wallpaper! **She LOVES Moroccan & Egyptian Tiles!**~~&#x20;
 
 ![Inspired by Ancient Egyptian colors and tiles](http://1.bp.blogspot.com/-s3ks8j1jw6M/UASekhqS0BI/AAAAAAAAkRQ/oIW8a5qraS0/s1600/Egypt-047.jpg)
 
-Create 3-4 design variations to show her. Hint: use variables to vary the output!&#x20;
+~~Create 3-4 design variations to show her. Hint: use variables to vary the output!~~&#x20;
 
-You are challenged to create these designs in code! Once can 'hard code' this. But this is a creative coding class in Week 4/5! You know a bunch of techniques that can be used to help you iterate a pattern. Work to exercise your programming knowledge!&#x20;
+~~You are challenged to create these designs in code! Once can 'hard code' this. But this is a creative coding class in Week 4/5! You know a bunch of techniques that can be used to help you iterate a pattern. Work to exercise your programming knowledge!~~&#x20;
 
-## **I am looking specifically at how you can manipulate and get more mileage and variation out of your code.**
+## ~~**I am looking specifically at how you can manipulate and get more mileage and variation out of your code.**~~
 
 &#x20;&#x20;
 
-**Suggested Plan of Action:**
+~~**Suggested Plan of Action:**~~
 
 &#x20; 0\. Create a pattern
 
