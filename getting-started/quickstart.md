@@ -226,7 +226,7 @@ Do for the Week After Spring Break (**do not** work _over_ spring break!)
 
 * [Midterm Self Assessment](../assignments/midterm-assessment.md)
 * Revise/Refine [Midterm Project](../assignments/midterm-project.md)
-* Work on[ Sketch 4](../assignments/sketch-6.md)
+* Work on[ Sketch 4](../assignments/sketch-6-image-and-text.md)
 
 </details>
 
@@ -241,7 +241,7 @@ In class:
 
 Do For Next Week:
 
-* work on [Sketch 4](../assignments/sketch-6.md)
+* work on [Sketch 4](../assignments/sketch-6-image-and-text.md)
 * work on [Roundtable presentation](../assignments/final-project-roundtable.md)
 * Read/Watch/Review Shiffman's [13: Text & Data](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Y4F21kqaFLk6oGW2I5o7FY) playlist
 
@@ -261,7 +261,7 @@ In class:
 
 Do for Next Week:
 
-* [Sketch 4](../assignments/sketch-6.md)
+* [Sketch 4](../assignments/sketch-6-image-and-text.md)
 
 </details>
 

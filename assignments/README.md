@@ -18,8 +18,8 @@
 [sketch-5.md](sketch-5.md)
 {% endcontent-ref %}
 
-{% content-ref url="sketch-6.md" %}
-[sketch-6.md](sketch-6.md)
+{% content-ref url="sketch-6-image-and-text.md" %}
+[sketch-6-image-and-text.md](sketch-6-image-and-text.md)
 {% endcontent-ref %}
 
 {% content-ref url="midterm-assessment.md" %}

@@ -1,0 +1,25 @@
+---
+description: 'Due: November 21st to openProcessing'
+icon: bowl-food
+---
+
+# Sketch 6 - Image & Text
+
+Collage and Manipulation Study chapters P3 & P4 in the Generative Design textbook. Using _images_, and/or text to create a generative collage. According to the Merriam-Webster Dictionary, generative means _having the power or function of generating, originating, producing, or reproducing._
+
+This collage should change over time, by user input or animation. This collage could be an interactive narrative or stop motion piece that tells a story. Be creative and experimental with this exercise.
+
+You must use images and/or text. Do not use sound. You may use graphics, but you are to mainly use images and to manipulate and choreograph those manipulations over time.
+
+This should be heavily procedural, dynamic, or crunching data. This builds off of what you have learned thus far and takes it further. This is not to simply just have images and text appear. I am looking for you to take this further and to strengthen your coding chops.
+
+Review the coding examples covered in class on Slack
+
+Requirements:
+
+* maniuplation of time
+* animation
+* movement
+* images
+* Play with: location, color, pixels, presence, absence
+
