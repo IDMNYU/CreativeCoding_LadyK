@@ -1,6 +1,6 @@
 ---
-icon: head-side-goggles
 description: Final Self Assessment & Letter to the next Cohort & any missing documents
+icon: head-side-goggles
 ---
 
 # Final Course Deliverables
@@ -31,4 +31,4 @@ Using Word or another text editor, reflect on the following, **considering the e
 
 • Submit any missing exercises to get credit for them. Post them to github and EMAIL me that they are up.
 
-## All of the above must be submitted by May 12 16:00
+## All of the above must be submitted by Dec 18 16:00
