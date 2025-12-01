@@ -8,11 +8,11 @@ icon: route
 
 ## Final Project Milestone  5% of your Final Grade
 
-#### Working Prototype Due: April 21
+#### Working Prototype Due: Dec 8
 
-#### April 30 & May 5 in class feedback presentations
+#### Dec 8 & 10 in class feedback presentations
 
-#### Alpha Version Due: May 12 12:00 (sharp) EST via openProcessing && your github repo for the project
+#### Alpha Version Due: Dec 17 12:00 (sharp) EST via openProcessing && your github repo for the project
 
 **Working Prototype:** All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality. Use this deadline to conquer topics that you are struggling with.
 
