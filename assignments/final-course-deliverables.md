@@ -31,4 +31,4 @@ Using Word or another text editor, reflect on the following, **considering the e
 
 • Submit any missing exercises to get credit for them. Post them to github and EMAIL me that they are up.
 
-## All of the above must be submitted by Dec 18 16:00
+## All of the above must be submitted by Dec 17 16:00
