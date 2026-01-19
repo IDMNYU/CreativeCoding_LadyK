@@ -6,9 +6,9 @@ coverY: 0
 
 # Syllabus
 
-## Syllabus for DM-UY-1133-D Creative Coding Fall 2025
+## Syllabus for DM-UY-1133 Creative Coding Spring 2026
 
-* **DM-UY 1133 D Creative Coding**
+* **DM-UY 1133  Creative Coding**
 * 370 Jay Street, Room 309, Brooklyn Campus,&#x20;
 * Wed/Mon, 12:00 - 13:50
 * **Professor: Katherine Bennett**
