@@ -2,36 +2,25 @@
 icon: transporter-7
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Syllabus
 
-## Syllabus for DM-UY-1133-A Creative Coding Spring 2025
+## Syllabus for DM-UY-1133-D Creative Coding Fall 2025
 
 * **DM-UY 1133 D Creative Coding**
-* 370 Jay Street, Room 308, Brooklyn Campus
+* 370 Jay Street, Room 309, Brooklyn Campus,&#x20;
+* Wed/Mon, 14:00 - 16:00
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu**
-* Slack Workspace (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
-* openProcessing Workspace (where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's weekly breakout.
-* **Office Hours: Monday & Wednesday 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly before class. Please message me in advance to set up.**
-* **Creative Coding GA is: TBD**
+* [Slack Workspace ](https://creativecodin-z8r4683.slack.com/)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
+* [openProcessing Workspace ](https://openprocessing.org/class/101395#/)(where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's on Schedule
+* **Office Hours: Monday & Wednesday 12-2 or 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. I can meet briefly before class. Please message me in advance to set up.**
+* **The Creative Coding Graduate Assistant is: Bo He - Hours 12:00 - 14:00 (12-2pm)  on Tuesday & Thursdays in 370 Jay room 304 (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
+* For Bo's email and contact details, please scan below:
+*
 
-
+    <figure><img src=".gitbook/assets/Bo (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Jump to Section:
 
@@ -52,7 +41,9 @@ layout:
 [Program Goals](./#program-goals)\
 [Programming Experience](./#programming-experience)\
 [Required Materials](./#required-materials-acquire-these)\
-[Technology in the Classroom](./#technology-in-the-classroom)\
+[Technology in the Classroom](./#technology-in-the-classroom)
+
+[Time estimates per week](./#time-estimates-per-week)\
 [Using Code Found Elsewhere](./#using-code-found-elsewhere)\
 [Using Generative AI](./#using-generative-ai)
 
@@ -251,6 +242,22 @@ The above software is free to download.
 
 [Back To The Top](./#jump-to-section)
 
+## [Time Estimates per Week](./#jump-to-section)
+
+These are ball-park time estimates for various homework assignments given in this course. These estimates will vary per student, as they also will throughout the semester. It depends upon one's knowledge of programming and their ability to learn the material. I suggest a multi-prong effort in this course: revewing course material, reading/wtaching videos, programming and working on assignments.
+
+Please manage your time and do. not. do. your. homework. in. one. sitting. It will be stressful and not quality work. You may POST your homework before the deadline. Infact, you are encouraged to! Students who spread the assignment across the week submit higher quality work under less stress, and work with greater ease. As such, the time estimate has been included below. You may require any combination of these. I suspect that what you need will change over the semester and may fluctuate. Some time from one area, will be needed in another. Some will require more time, some less. As such, overall, on average, you will need 5-6 out of class, indepenedently learning
+
+
+
+* Reading/Watching Videos- 60- 120 minutes
+* Reviewing notes and code from class: 60 minutes
+* Assignments + programming: 60-120 minutes
+* reviewing what you've already covered- readings and notes- 30-45minutes
+* squashing programming bugs - 60 minutes
+
+[Back To The Top](./#jump-to-section)
+
 ## Course Structure
 
 This is a hybrid course - both lecture and studio. Students will work on individual projects and group collaborations. Work will be completed both inside and outside of the class. Class will be a mix of lectures, class discussion, Show & Tell, workshops/challenges, studio time and critiques. Guest critics may be present.
@@ -260,9 +267,9 @@ The course can be broken down into 3 sections throughout the semester: programmi
 A typical session will aim for the following schedule:
 
 ```
-• 12:00 - 12:10 Class Intros & Updates
-• 12:10 - 13:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
-• 13:30 - 13:50 Presentations & Re-group; Tickets to Leave
+• 14:00 - 14:10 Class Intros & Updates
+• 14:10 - 15:30 Demo/Lecture/Workshop/Discussion/Pair Programming Challenge
+• 15:30 - 13:50 Presentations & Re-group; Tickets to Leave
 ```
 
 [Back To The Top](./#jump-to-section)
@@ -311,14 +318,14 @@ Do the follow these steps for each project:
 0. Save your work AND all of the necessary support files (index.html, libraries folder, pictures, media, etc) in a folder that is titled in this manner:
 				*YourFirstNameYourLastName_Project_1*, etc.
 
-1. Upload this folder to a new repository on your GitHub account titled:
+1. This is the folder that you will upload under a new repository on your GitHub account titled:
 				*CreativeCoding_Project_1*
 
-2. Create a new repository on your GitHub account online. The repository should be titled CreativeCoding_Project_1, filling in the number of the exercise. Include the README.md option
+2. Go to a browser and go to github.com and log in. Create a new repository on your GitHub account online. The repository should be titled CreativeCoding_Project_1, filling in the number of the exercise. Include the README.md option. Do not make this private!
 
-3. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
+3. Under the "Issues" tab in Github desktop, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
-4. Go back to the GitHub Desktop app. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
+4. In the summary field, write what additions you have made to your code in summary. In the description, add greater details, notes, and questions for me.
 
 5. Hit the "sync button" in the upper right hand corner. This uploads your code to your repo page on the Github website.
 
