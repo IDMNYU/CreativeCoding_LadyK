@@ -28,14 +28,13 @@ Do for Next Week:
 * Watch/Reference: 2.1 [How to use Processing](https://youtu.be/5N31KNgOO0g)
 * Watch/Reference: 2.2 [RGB Color](https://youtu.be/n2oHuKG_BQc)
 * Watch/Reference: [Interaction (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD)
-
-- [download Slack](https://slack.com/)
-- [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-z8r4683/shared_invite/zt-3ckzqdpuu-NL26mURwwHOi~KQnCARa6Q). Make sure your workspace name is the name to address you by
-- Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/C57504)This is critical as this is where you will be submitting your homework.
-- Fill out the [Google Survey](https://forms.gle/oicbSx344wLSj5Ld6), if you have not
-- Get a [Github](https://github.com/) account
-- Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
-- Install [Processing](https://processing.org/download/). Explore the examples!
+* [download Slack](https://slack.com/)
+* [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-7iy9910/shared_invite/zt-3o32p03tc-PsZa7M~_fCPiDJc~nLQK7g). Make sure your workspace name is the name to address you by
+* Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/C57504)This is critical as this is where you will be submitting your homework.
+* Fill out the [Google Survey](https://forms.gle/6hZP8YWf5jnKdMN66), if you have not
+* Get a [Github](https://github.com/) account
+* Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
+* Install [Processing](https://processing.org/download/). Explore the examples!
 
 
 
@@ -67,9 +66,8 @@ Do for Next Week:
 * Watch/Reference: Shiffman's [4.2 Incrementing a variable](https://youtu.be/rZ36BzXFT6Q)&#x20;
 * Watch/Reference: Shiffman's [4.4 Using Println() ](https://youtu.be/G9uDQBoHp08)
 * Watch/Reference: Shiffman's
-
-- If you missed Last week, review week 1's assignments
-- Continue to work on[ Sketch 1](../assignments/sketch-1.md)
+* If you missed Last week, review week 1's assignments
+* Continue to work on[ Sketch 1](../assignments/sketch-1.md)
 
 
 
@@ -98,8 +96,7 @@ Do For Next Week:
 * Watch/Review Shiffman's 6: [Loops Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)
 * Watch/Review Shiffman's [4.3 Using random() ](https://youtu.be/50Rzvxvi8D0)
 * Find out When your [Show & Tell Presentation](../assignments/show-and-tell.md) is, and make a note to prepare for it.
-
-- Work on [Sketch 2](../assignments/sketch-2-4.md)
+* Work on [Sketch 2](../assignments/sketch-2-4.md)
 
 
 
@@ -124,9 +121,8 @@ Do For Next Week:
 * Read/Review- Learning Processing Ch 7-9
 * Watch/Review Shiffman's [7: Intro to Functions & Objects (playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR)
 * Watch/Review Shiffman's [Loops videos 1-](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)[6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bm-3M4Wntd4yYZGKwiKfrQ)
-
-- Continue to work on [Sketch 2](../assignments/sketch-2-4.md)
-- Read the letters from the Last Cohort (If you did not last week) & Write a brief reflection and send it to me via a Slack DM.
+* Continue to work on [Sketch 2](../assignments/sketch-2-4.md)
+* Read the letters from the Last Cohort (If you did not last week) & Write a brief reflection and send it to me via a Slack DM.
 
 
 
@@ -170,9 +166,8 @@ In Class:
 Do For Next Week:
 
 * read/review [Processing to P5 Tutorial](https://github.com/processing/p5.js/wiki/Processing-transition)
-
-- Brainstorm and Pseudo Code [Midterm](../assignments/midterm-project.md)
-- Work on [Sketch 4](../assignments/sketch-2-4.md)
+* Brainstorm and Pseudo Code [Midterm](../assignments/midterm-project.md)
+* Work on [Sketch 4](../assignments/sketch-2-4.md)
 
 </details>
 

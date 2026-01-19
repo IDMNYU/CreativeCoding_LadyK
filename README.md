@@ -10,17 +10,13 @@ coverY: 0
 
 * **DM-UY 1133 D Creative Coding**
 * 370 Jay Street, Room 309, Brooklyn Campus,&#x20;
-* Wed/Mon, 14:00 - 16:00
+* Wed/Mon, 12:00 - 13:50
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu**
-* [Slack Workspace ](https://creativecodin-z8r4683.slack.com/)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
+* [Slack Workspace ](https://creativecodin-7iy9910.slack.com/)(Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's Schedule or the email I sent)
 * [openProcessing Workspace ](https://openprocessing.org/class/101395#/)(where homework is submitted) You must first join openProcessing. See the email I sent in the beginning of the semester and/or the invite in week 1's on Schedule
 * **Office Hours: Monday & Wednesday 12-2 or 4-5pm EST, Or by appointment. Message me in Slack to give me a heads up. I can meet briefly before class. Please message me in advance to set up.**
-* **The Creative Coding Graduate Assistant is: Bo He - Hours 12:00 - 14:00 (12-2pm)  on Tuesday & Thursdays in 370 Jay room 304 (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
-* For Bo's email and contact details, please scan below:
-*
-
-    <figure><img src=".gitbook/assets/Bo (1).jpg" alt=""><figcaption></figcaption></figure>
+* **The Creative Coding Graduate Assistant is: TBA (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
 
 ### Jump to Section:
 
@@ -95,8 +91,7 @@ Experiment with different techniques for user input and output, including sensor
 \
 Propose and develop a complete software experience as a final project.
 
-\
-
+<br>
 
 [Back To The Top](./#jump-to-section)
 
