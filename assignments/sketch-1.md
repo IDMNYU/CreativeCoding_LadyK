@@ -4,11 +4,11 @@ icon: carrot
 
 # Sketch 1
 
-## **Due September 19th 2025 - uploaded to our class page on openProcessing and submitted under "Sketch 1" by NOON on Friday the 19th.**
+## **Due Feb 4th 20:00hrs - uploaded to our class page on openProcessing and submitted under "Sketch 1"**&#x20;
 
 **Submit on openProcessing**
 
-[**Link to join openProcessing**](https://openprocessing.org/join/C57504)
+[**Link to join openProcessing**](https://openprocessing.org/join/8B778F)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.31.34.png" alt=""><figcaption></figcaption></figure>
 
