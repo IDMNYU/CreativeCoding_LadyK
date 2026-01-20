@@ -6,8 +6,8 @@ icon: masks-theater
 
 ## MidTerm Project - The Unexpected Machine: Performance of an Adjective
 
-**Due Nov 3rd & 5th In class critiques**\
-**Final Submissions Due  Nove 14 midnight to openProcessing & your github repo**&#x20;
+**Due March 9th & 11th In class critiques**\
+**Final Submissions Due  March 30th midnight to openProcessing & your github repo**&#x20;
 
 **20% of your final grade**
 
@@ -37,7 +37,7 @@ Create custom functions that are triggered on some event, and make those functio
 
 Do not be literal. Do not create a smiley face to convey happiness. Nor a snowperson to illustrate coldness. You are challenged to move beyond the crutches of tradition to create your own language of expression. Think instead of shape, color, size, duration, change, movement, transformation, intensity, etc.
 
-#### Ingredients: 
+#### Ingredients:<br>
 
 • Graphics (shape, color, line, placement, custom shapes)\
 • Control Structures (if, for, while)\
@@ -61,8 +61,7 @@ Do not be literal. Do not create a smiley face to convey happiness. Nor a snowpe
 • movement, change, variety\
 • arrays\
 • conditionals\
-• OOP - with methods + passing parameters\
-
+• OOP - with methods + passing parameters<br>
 
 To give you an idea of how much development I'm looking for, your code should be well beyond 100 lines of code, which incorporates the concepts we've learned thus far. Spacing, comments or commented out code are not counted as lines.
 
