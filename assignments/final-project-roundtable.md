@@ -4,7 +4,7 @@ icon: screen-users
 
 # Final Project Roundtable
 
-#### Due April 7th 12:00 EST Post to your Github repo for the final project && upload a link to your 3-4 minute presentation to your readMe file
+#### Due April 8th 12:00 EST Post to your Github repo for the final project && upload a link to your 3-4 minute presentation to your readMe file
 
 **5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)**
 
@@ -29,4 +29,4 @@ icon: screen-users
 **Create a Repo for this Final Project. Upload a folder called "RoundTable Presentation" to your repo with all of the above materials inside of it.**
 
 \*\*Presentations in class \*\*\
-**Due April 7 (?) POSTED TO YOUR GITHUB repo**
+**Due April 8th POSTED TO YOUR GITHUB repo**
