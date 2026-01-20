@@ -75,7 +75,7 @@ Do for Next Week:
 
 <details>
 
-<summary>Week 3: Wednesday Feb 4th &#x26; Monday Feb 9th Control Statements and more!</summary>
+<summary>Week 3: Wednesday Feb 4th &#x26; Monday Feb 9th | Control Statements and more!</summary>
 
 In Class:
 
@@ -177,10 +177,9 @@ Do For Next Week:
 
 In Class:&#x20;
 
-* TBA
 * Review State machines, debugging
-* In class challenge
 * Demo of libraries for [Final Project](../assignments/final-project.md)s: Sound, Computer Vision, Video, P5 Play library, P5 Speech library (not for midterm)
+* [MIDTERM PRESENTATIONS](../assignments/midterm-project.md)
 
 Do for Next Week:&#x20;
 
@@ -195,14 +194,14 @@ Do for Next Week:&#x20;
 
 In class:
 
-* Intro to working with data - Images & Text
 * [MIDTERM PRESENTATIONS](../assignments/midterm-project.md)
+* Intro to working with data - Images & Text
 
 Do for Next Week:
 
 * Brainstorm [final project](../assignments/final-project.md#final-project-choice-20-of-your-final-grade) ideas and begin creating [Roundtable Presentation](../assignments/final-project-roundtable.md)
 * [Midterm Self Assessment](../assignments/midterm-assessment.md)
-* Revise/Refine [Midterm Project](../assignments/midterm-project.md#midterm-project-the-unexpected-machine-performance-of-an-adjective)
+* Revise/Refine [Midterm Project](../assignments/midterm-project.md#midterm-project-the-unexpected-machine-performance-of-an-adjective)&#x20;
 
 Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=-f0WEitGmiw\&list=PLRqwX-V7Uu6YB9x6f23CBftiyx0u_5sO9\&ab_channel=TheCodingTrain) 10.1 - 10.7 (see playlist on screen for next videos)
 
@@ -214,7 +213,6 @@ Read/Review/Watch: [Shiffman's Images & Pixels](https://www.youtube.com/watch?v=
 
 In Class:
 
-* [Midterm Project Presentations & Feedback](../assignments/midterm-project.md)
 * Image & Text manipulation
 
 Do for the Week After Spring Break (**do not** work _over_ spring break!)
