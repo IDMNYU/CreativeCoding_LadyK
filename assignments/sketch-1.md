@@ -4,7 +4,7 @@ icon: carrot
 
 # Sketch 1
 
-## **Due Feb 4th 20:00hrs - uploaded to our class page on openProcessing and submitted under "Sketch 1"**&#x20;
+## **Due Feb 6th 20:00hrs - uploaded to our class page on openProcessing and submitted under "Sketch 1"**&#x20;
 
 **Submit on openProcessing**
 
