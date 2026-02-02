@@ -30,7 +30,7 @@ Do for Next Week:
 * Watch/Reference: [Interaction (Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD)
 * [download Slack](https://slack.com/)
 * [J](https://creativecodin-pwh8405.slack.com/ssb/redirect)[oin the Slack workspace for this course](https://join.slack.com/t/creativecodin-7iy9910/shared_invite/zt-3o32p03tc-PsZa7M~_fCPiDJc~nLQK7g). Make sure your workspace name is the name to address you by
-* Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/C57504)This is critical as this is where you will be submitting your homework.
+* Join our workspace on[ openProcessing via this invitation link. ](https://openprocessing.org/join/8B778F)This is critical as this is where you will be submitting your homework.
 * Fill out the [Google Survey](https://forms.gle/6hZP8YWf5jnKdMN66), if you have not
 * Get a [Github](https://github.com/) account
 * Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).
