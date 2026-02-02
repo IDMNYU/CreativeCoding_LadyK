@@ -4,7 +4,7 @@ icon: globe-pointer
 
 # Resources
 
-## IDM Graduate Assistant:&#x20;
+## IDM Graduate Assistant:
 
 **The Creative Coding Graduate Assistant is: (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
 
@@ -57,6 +57,8 @@ icon: globe-pointer
 • \[Finished is Better Than Perfect]\(https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect)
 
 • [IDM Github tutorials](https://idmnyu.github.io/)
+
+## [Examples Of Good Tickets To Leave](publish-your-docs.md#examples-of-good-tickets-to-leave)
 
 ## Fabulous References and Supporting Resources
 
@@ -225,4 +227,3 @@ icon: globe-pointer
 ## **Time Management**
 
 [Rescue Time](https://www.rescuetime.com/) [Self Control](http://selfcontrolapp.com/) [Evernote](https://evernote.com) [SQ3R](http://www.studygs.net/texred2.htm)
-
