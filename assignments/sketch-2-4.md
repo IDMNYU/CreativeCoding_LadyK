@@ -4,11 +4,11 @@ icon: fondue-pot
 
 # Sketch 2 - 4
 
-## Sketch 2: **Creating 1 face -Due September 26th by NOON**
+## Sketch 2: **Creating 1 face -Due February 12 by NOON**
 
-## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due October 3rd by Noon
+## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due Feb 19th by Noon
 
-## Sketch 4: Port to P5.js & Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due October 10th by Noon
+## Sketch 4: Port to P5.js & Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due Feb 24th by Noon
 
 ## Face Generator
 

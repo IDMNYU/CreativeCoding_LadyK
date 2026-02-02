@@ -32,37 +32,37 @@ You will be assigned a Show and Tell presentation date here. Please research the
 
 **Show and Tell People**
 
-Week 5A - Joshua Davis, Golan Levin (drawing systems + collaborations) --->  Mace
+Week 5A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> &#x20;
 
-Week 5B - Casey Reas, Zachary Lieberman ---> Luke
+Week 5B - Casey Reas, Zachary Lieberman --->
 
 Week 6A - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy, now deceased)--->&#x20;
 
 Week 6B - Seb Lee-Delisle & Kyle McDonald --->
 
-Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg --->  Amandine
+Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> &#x20;
 
-Week 6B - Lee Blalock, Soso Limited ---> Ethan
+Week 6B - Lee Blalock, Soso Limited --->&#x20;
 
 Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m --->&#x20;
 
-Week 7A - Marius Watz & Memo Akten ---> Ben
+Week 7A - Marius Watz & Memo Akten --->&#x20;
 
-Week 8B - United Visual Artists, American Artist ---> River&#x20;
+Week 8B - United Visual Artists, American Artist --->&#x20;
 
-Week 9A - Jurg Lehni, Red Paper Heart ---> Matthew
+Week 9A - Jurg Lehni, Red Paper Heart --->&#x20;
 
-Week 9B - Amit Pitaru, rAndom International ---> Caroline
+Week 9B - Amit Pitaru, rAndom International --->&#x20;
 
 Week 10A - Eno Henze, Cedric Kiefer (onformative)--->&#x20;
 
-Week 10A - Diato Manabe, Leo Villareal ---> Avery
+Week 10A - Diato Manabe, Leo Villareal --->&#x20;
 
 Week 11B - Karolina Sobecka, Moment Factory --->&#x20;
 
-Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> Caitlin
+Week 11B - Robert Hodgin - Flight404, Karsten Schmidt --->
 
-Week 12A - Bomani Oseni McClendon, Lauren McCarthy ---> Subeen
+Week 12A - Bomani Oseni McClendon, Lauren McCarthy --->&#x20;
 
 Week 12A - Lia, Santiago Ortiz (Moebio.com) --->
 

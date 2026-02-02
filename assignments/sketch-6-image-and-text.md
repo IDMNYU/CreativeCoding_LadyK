@@ -1,5 +1,5 @@
 ---
-description: 'Due: November 21st to openProcessing'
+description: 'Due: April 9th to openProcessing'
 icon: bowl-food
 ---
 

@@ -4,17 +4,17 @@ icon: carrot
 
 # Sketch 1
 
-## **Due September 19th 2025 - uploaded to our class page on openProcessing and submitted under "Sketch 1" by NOON on Friday the 19th.**
+## **Due Feb 6th 20:00hrs - uploaded to our class page on openProcessing and submitted under "Sketch 1"**&#x20;
 
 **Submit on openProcessing**
 
-[**Link to join openProcessing**](https://openprocessing.org/join/C57504)
+[**Link to join openProcessing**](https://openprocessing.org/join/8B778F)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.31.34.png" alt=""><figcaption></figcaption></figure>
 
-### Write code to generate a tiling pattern or textural composition, as for wallpaper or fabric. Give consideration to aesthetic issues like symmetry, rhythm, color; detail at multiple scales; precise control of shape; and the balance between organic and geometric forms.
+### Write code to generate a tile or texture, as for wallpaper or fabric. Give consideration to aesthetic issues like symmetry, rhythm, color; detail at multiple scales; precise control of shape; and the balance between organic and geometric forms. Think density, diversity and composition
 
-### Your pattern should be designed so that it could be infinitely tiles or extended. Design something you would like to put on the walls or floor of your home, or you could imagine yourself wearing.
+### Your pattern should be designed so that it COULD be infinitely tiles or extended. Design something you would like to put on the walls or floor of your home, or you could imagine yourself wearing.
 
 ### You are encouraged to sketch it out first
 
@@ -26,7 +26,7 @@ icon: carrot
 
 ***
 
-_Come to class on September 15 with the sketch started and we will demo how to submit it together in class_
+_Come to class on Febraruy 6th with the sketch in progress and we will demo how to submit it together in class_
 
 I am looking to see how well you understand:
 
