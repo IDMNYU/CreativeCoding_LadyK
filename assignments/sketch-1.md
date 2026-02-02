@@ -8,7 +8,7 @@ icon: carrot
 
 **Submit on openProcessing**
 
-[**Link to join openProcessing**](https://openprocessing.org/join/8B778F)
+[**Link to join openProcessing**](https://openprocessing.org/join/C57504)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-10 at 13.31.34.png" alt=""><figcaption></figcaption></figure>
 
