@@ -6,7 +6,7 @@ icon: globe-pointer
 
 ## IDM Graduate Assistant:&#x20;
 
-**The Creative Coding Graduate Assistant is: Bowen He - Hours 14:00 - 16:00 (2-4pm)  on Tuesday & Thursdays in 370 Jay room 304 (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
+**The Creative Coding Graduate Assistant is: (See** [**the IDM Calendar**](https://calendar.google.com/calendar/u/2?cid=ZDZmcTVqMWg4NHBnN3NhcW9sdnZzMjhiM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) **for links & info)**
 
 ## Required Course Materials
 
