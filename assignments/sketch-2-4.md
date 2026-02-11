@@ -4,7 +4,7 @@ icon: fondue-pot
 
 # Sketch 2 - 4
 
-## Sketch 2: **Creating 1 face -Due February 12 by NOON**
+## Sketch 2: **Creating 1 face -Due&#x20;**~~**February 12 by NOON**~~**&#x20;February 13th 16:00 (4pm)**
 
 ## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due Feb 19th by Noon
 
