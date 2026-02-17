@@ -6,7 +6,7 @@ icon: fondue-pot
 
 ## Sketch 2: **Creating 1 face -Due&#x20;**~~**February 12 by NOON**~~**&#x20;February 13th 16:00 (4pm)**
 
-## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due Feb 19th by Noon
+## Sketch 3: Parameterizing that face & organize code for variability (functions, variables, parameters) - Due Feb 19th by Noon (work on location coordinates, not just color)
 
 ## Sketch 4: Port to P5.js & Further Manipulate, iterate, add interactivity/variability and something to control that variability, etc. - Due Feb 24th by Noon
 
