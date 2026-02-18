@@ -56,7 +56,7 @@ Week 9B - Amit Pitaru, rAndom International ---> Angela
 
 Week 10A - Eno Henze, Cedric Kiefer (onformative)---> Tony
 
-Week 10A - Diato Manabe, Leo Villareal ---> Terrance
+Week 10A - Diato Manabe, Leo Villareal ---> Terrence
 
 Week 11B - Karolina Sobecka, Moment Factory ---> Alinna
 
