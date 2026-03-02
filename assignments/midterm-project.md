@@ -6,7 +6,9 @@ icon: masks-theater
 
 ## MidTerm Project - The Unexpected Machine: Performance of an Adjective
 
-**Due March 9th & 11th In class critiques**\
+**Submit by March 13th 18:00 (6pm) to openProcessing & your github repo**
+
+**Inclass feedback: March 23rd & 25th (attendance mandatory)**\
 **Final Submissions Due  March 30th midnight to openProcessing & your github repo**&#x20;
 
 **20% of your final grade**
