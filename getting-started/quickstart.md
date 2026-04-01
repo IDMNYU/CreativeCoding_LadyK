@@ -246,7 +246,7 @@ Do For Next Week:
 
 <details>
 
-<summary>Week 11: Wednesday April 8th &#x26; Monday April 11th | RoundTable Presentations</summary>
+<summary>Week 11: Wednesday April 8th &#x26; Monday April 13th | RoundTable Presentations</summary>
 
 In class:
 
