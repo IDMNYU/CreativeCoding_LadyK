@@ -287,7 +287,7 @@ For Next Week:
 
 For Next Week:
 
-* Finish [Final Project](../assignments/final-project.md) - Due May 8th @ 12 noon
+* Finish [Final Project](../assignments/final-project.md) - Due May 11th @ 12 noon
 * Final [Course Deliverables](../assignments/final-course-deliverables.md) - Final Self Assessment & Letter to the next Cohort - Due May 8th @ 16:00
 * We DO NOT MEET OVER EXAM WEEK
 * Have a fabulous summer break! :clap: :tada:
